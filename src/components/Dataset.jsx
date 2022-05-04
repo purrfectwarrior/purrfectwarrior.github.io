@@ -939,6 +939,30 @@ Dataset.push({ name: "Search",
 	resuelta: true,
 });
 
+Dataset.push({ name: "Ariekei",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.65",
+	so: "Linux",
+	dificultad:	"Insane",
+	skills: "ImageTragick Exploitation (Specially designed '.mvg' file) ShellShock Attack (WAF Bypassing) Abusing Docker privilege PIVOTING",
+	like: "eCPPTv2 eCPTXv2 eWPT OSWE",
+	youtube: "https://www.youtube.com/watch?v=mjrrfNc454c",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Forge",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.11.111",
+	so: "Linux",
+	dificultad:	"Media",
+	skills: "Bypassing URL Blacklist Server Side Request Forgery (SSRF) Abusing Sudoers Privilege (Abusing Python Script)",
+	like: "eWPT OSWE OSCP",
+	youtube: "https://www.youtube.com/watch?v=6JWPJ3YgDXc",
+	resuelta: true,
+});
+
 /*Dataset.push({ name: "",
 	id: count(),
 	sku: crypto.randomUUID(),
