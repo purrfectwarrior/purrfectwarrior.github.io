@@ -963,6 +963,31 @@ Dataset.push({ name: "Forge",
 	resuelta: true,
 });
 
+Dataset.push({ name: "SwagShop",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.140",
+	so: "Linux",
+	dificultad:	"Fácil",
+	skills: "Magento CMS Exploitation (Creating an admin user) Magento - Froghopper Attack (RCE) Abusing sudoers (Privilege Escalation)",
+	like: "eWPT OSWE OSCP",
+	youtube: "https://www.youtube.com/watch?v=7Lc9taXgLCA",
+	resuelta: true,
+});
+
+Dataset.push({ name: "BackendTwo",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.11.162",
+	so: "Linux",
+	dificultad:	"Media",
+	skills: "API Enumeration Abusing API - Registering a user Accessing the Docs path of FastAPI Mass Assignment Attack (Becoming superusers) Abusing API - Reading system files Information Leakage Forge JWT (Assigning us an extra privilege) Abusing API - Creating a new file to achieve remote command execution (RCE) Abusing pam_wordle (Privilege Escalation)",
+	like: "eWPT eWPTXv2 OSWE",
+	youtube: "https://twitch.tv/s4vitaar",
+	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]"
+	resuelta: false,
+});
+
 /*Dataset.push({ name: "",
 	id: count(),
 	sku: crypto.randomUUID(),
