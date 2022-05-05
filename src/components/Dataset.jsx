@@ -984,7 +984,7 @@ Dataset.push({ name: "BackendTwo",
 	skills: "API Enumeration Abusing API - Registering a user Accessing the Docs path of FastAPI Mass Assignment Attack (Becoming superusers) Abusing API - Reading system files Information Leakage Forge JWT (Assigning us an extra privilege) Abusing API - Creating a new file to achieve remote command execution (RCE) Abusing pam_wordle (Privilege Escalation)",
 	like: "eWPT eWPTXv2 OSWE",
 	youtube: "https://twitch.tv/s4vitaar",
-	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]"
+	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
 	resuelta: false,
 });
 
