@@ -995,7 +995,7 @@ Dataset.push({ name: "MultiMaster",
 	dificultad:	"Insane",
 	skills: "SQLI (SQL Injection) - Unicode Injection WAF Bypassing Advanced Python Scripting - Creation of an automation tool to handle Unicode in SQL injection Database enumeration through the previously created utility Cracking Passwords Active Directory Enumeration Enumerating domain information through SQL injection Obtaining domain RIDs through SQL injection Applying brute-force attack  (SID = SID+RID) to obtain existing domain users [Python Scripting] SMB Brute Force Attack (Crackmapexec) Enumerating AD existing users (rpcclient/rpcenum) Abusing Remote Management User group Microsoft Visual Studio 10.0 Exploitation (User Pivoting) Using libwebsockets in order to connect to a CEF Debugger (RCE) AMSI Bypass - Playing with Nishang AMSI Bypass - Bypass-4MSI Alternative (evil-winrm) DLL Inspection - Information Leakage BloodHound Enumeration Abusing the GenericWrite privilege on a user Making a user vulnerable to an ASREPRoast attack - Disabling Kerberos Pre-Authentication Requesting the TGT of the manipulated user Abusing Server Operators Group Abusing an existing service by manipulating its binPATH We change the password of the administrator user after restarting the manipulated service",
 	like: "eWPT eWPTXv2 OSWE OSCP OSEP Active Directory",
-	activeDirectory: "Active Directory""
+	activeDirectory: "Active Directory",
 	youtube: "https://www.youtube.com/watch?v=z6nmcyk1Pbo",
 	resuelta: true,
 });
