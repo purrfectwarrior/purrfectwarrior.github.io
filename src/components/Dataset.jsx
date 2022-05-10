@@ -1012,6 +1012,18 @@ Dataset.push({ name: "Unicode",
 	resuelta: true,
 });
 
+Dataset.push({ name: "Postman",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.160",
+	so: "Linux",
+	dificultad:	"Fácil",
+	skills: "Redis Enumeration Redis Exploitation - Write SSH Key Webmin Exploitation - Python Scripting We create our own exploit in Python - AutoPwn [Ruby code adaptation from Metasploit]",
+	like: "eWPT eWPTXv2 OSWE",
+	youtube: "https://www.youtube.com/watch?v=PE3B3rHVTSw",
+	resuelta: true,
+});
+
 /*Dataset.push({ name: "",
 	id: count(),
 	sku: crypto.randomUUID(),
