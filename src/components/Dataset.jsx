@@ -1024,6 +1024,30 @@ Dataset.push({ name: "Postman",
 	resuelta: true,
 });
 
+Dataset.push({ name: "ServMon",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.184",
+	so: "Windows",
+	dificultad:	"Fácil",
+	skills: "NVMS-1000 Exploitation - Directory Traversal Local File Inclusion (LFI) Local Port Forwarding - SSH NSClient++ Exploitation - Privilege Escalation",
+	like: "eWPT OSCP",
+	youtube: "https://www.youtube.com/watch?v=UOrtDZsP0aQ",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Schooled",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.234",
+	so: "Linux",
+	dificultad:	"Media",
+	skills: "VHost Brute Force Moodle Enumeration Moodle - Stored XSS Stealing a teacher's session cookie Privilege escalation from teacher role into manager role to RCE [CVE-2020-14321] Elevating our privilege to Manager in Moodle - User Impersonation Mass Assignment Attack - Enable Full Permissions Giving us the ability to install a plugin Achieving remote command execution through installation of a malicious Plugin Enumerating the database once we have gained access to the system Cracking Hashes Abusing sudoers privilege (pkg install package) [Privilege Escalation]",
+	like: "eWPT eWPTXv2 OSWE",
+	youtube: "https://www.youtube.com/watch?v=HNHvMgQwHQM",
+	resuelta: true,
+});
+
 /*Dataset.push({ name: "",
 	id: count(),
 	sku: crypto.randomUUID(),
