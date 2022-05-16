@@ -1082,7 +1082,7 @@ Dataset.push({ name: "Buff",
 	like: "OSCP eCPPTv2 Buffer Overflow",
 	youtube: "https://twitch.tv/s4vitaar",
 	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
-	bufferOverflow: "Buffer Overflow",
+	bufferOverflow: "Buffer overflow",
 	resuelta: true,
 });
 
