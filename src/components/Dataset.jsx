@@ -1109,6 +1109,42 @@ Dataset.push({ name: "CrossFit",
 	resuelta: true,
 });
 
+Dataset.push({ name: "CrimeStoppers",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.80",
+	so: "Linux",
+	dificultad:	"Difícil",
+	skills: "Local File Inclusion (LFI) LFI - Base64 Wrapper [Reading PHP files] LFI to RCE - ZIP Wrapper Thunderbird - Password Extraction & Reading Messages (firefoxpwd tool) Rootkit - apache_modrootme [GHIDRA/Radare2 Analysis] (Privilege Escalation)",
+	like: "eWPT OSWE",
+	youtube: "https://www.youtube.com/watch?v=6IO3gAtP3dc",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Nightmare",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.66",
+	so: "Linux",
+	dificultad:	"Insane",
+	skills: "HTML Injection XSS Injection SQL Injection (SQLI) - Error Based OpenSSH <= 6.6 SFTP misconfiguration universal exploit (RCE) Script Modification Binary Analysis [GHIDRA/Radare2] In-depth analysis with Radare2 [Tips and tricks] Command Injection - User Pivoting Ubuntu Xenial Privilege Escalation - Kernel Exploitation",
+	like: "eWPT OSWE",
+	youtube: "https://www.youtube.com/watch?v=nBDnCjRxmO8",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Pandora",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.11.136",
+	so: "Linux",
+	dificultad:	"Fácil",
+	skills: "SNMP Fast Enumeration Information Leakage Local Port Forwarding SQL Injection - Admin Session Hijacking PandoraFMS v7.0NG Authenticated Remote Code Execution [CVE-2019-20224] Abusing Custom Binary - PATH Hijacking [Privilege Escalation]",
+	like: "OSCP eWPT",
+	youtube: "https://www.youtube.com/watch?v=Np_zA-SOwYo",
+	resuelta: true,
+});
+
 /*Dataset.push({ name: "",
 	id: count(),
 	sku: crypto.randomUUID(),
