@@ -1179,8 +1179,7 @@ Dataset.push({ name: "RedCross",
 	skills: "Subdomain Enumeration XSS Injection - Stealing the admin user cookie Injection RCE Abusing Custom Binary - Binary Exploitation Buffer Overflow [x64] [ROP Attacks using PwnTools] [NX Bypass] [ASLR Bypass] [Privilege Escalation]",
 	like: "eWPT Buffer Overflow",
 	bufferOverFlow: "Buffer overflow",
-	youtube: "https://twitch.tv/s4vitaar",
-	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
+	youtube: "https://www.youtube.com/watch?v=prg88ajxAPc",
 	resuelta: true,
 });
 
