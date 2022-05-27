@@ -1183,6 +1183,31 @@ Dataset.push({ name: "RedCross",
 	resuelta: true,
 });
 
+Dataset.push({ name: "TartarSauce",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.88",
+	so: "Linux",
+	dificultad:	"Media",
+	skills: "RFI (Remote File Inclusion) - Abusing Wordpress Plugin [Gwolle-gb] RFI to RCE (Creating our malicious PHP file) Abusing Sudoers Privilege (Tar Command) Abusing Cron Job (Privilege Escalation) [Code Analysis] [Bash Scripting]",
+	like: "eWPT OSWE OSCP",
+	youtube: "https://www.youtube.com/watch?v=nyp6eixPSMA",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Cronos",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.13",
+	so: "Linux",
+	dificultad:	"Media",
+	skills: "Domain Zone Transfer (AXFR) SQLI (Blind Time Based) - Creating a custom Python script Command Injection Abusing Cron Job [Privilege Escalation]",
+	like: "eWPT eWPTXv2 OSWE OSCP",
+	youtube: "https://twitch.tv/s4vitaar",
+	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
+	resuelta: false,
+});
+
 /*Dataset.push({ name: "",
 	id: count(),
 	sku: crypto.randomUUID(),
