@@ -1205,6 +1205,43 @@ Dataset.push({ name: "Cronos",
 	like: "eWPT eWPTXv2 OSWE OSCP",
 	youtube: "https://twitch.tv/s4vitaar",
 	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
+	resuelta: true,
+});
+
+Dataset.push({ name: "AdmirerToo",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.11.137",
+	so: "Linux",
+	dificultad:	"Difícil",
+	skills: "Subdomain Enumeration Adminer Enumeration SSRF (Server Side Request Forgery) in Adminer [CVE-2021-21311] Abusing redirect to discover internal services OpenTSDB Exploitation [CVE-2020-35476] [Remote Code Execution] Searching for valid metrics OpenCats PHP Object Injection to Arbitrary File Write Abusing Fail2ban [Remote Code Execution] (CVE-2021-32749) Playing with phpggc in order to serialize our data Abusing whois config file + OpenCats + Fail2ban [Privilege Escalation]",
+	like: "eWPT eWPTXv2 OSWE",
+	youtube: "https://www.youtube.com/watch?v=YmZLdJRBKv0",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Admirer",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.11.187",
+	so: "Linux",
+	dificultad:	"Fácil",
+	skills: "Information Leakage Admirer Exploitation (Abusing LOAD DATA LOCAL Query) Abusing Sudoers Privilege [Library Hijacking - Python] (Privilege Escalation)",
+	like: "eWPT OSWE OSCP",
+	youtube: "https://www.youtube.com/watch?v=ofAHf1i8XMQ",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Time",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.214",
+	so: "Linux",
+	dificultad:	"Media",
+	skills: "Jackson CVE-2019-12384 Exploitation - SSRF to RCE Abusing Cron Job [Privilege Escalation]",
+	like: "eWPT OSWE OSCP",
+	youtube: "https://twitch.tv/s4vitaar",
+	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
 	resuelta: false,
 });
 
