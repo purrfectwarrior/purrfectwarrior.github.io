@@ -1203,8 +1203,7 @@ Dataset.push({ name: "Cronos",
 	dificultad:	"Media",
 	skills: "Domain Zone Transfer (AXFR) SQLI (Blind Time Based) - Creating a custom Python script Command Injection Abusing Cron Job [Privilege Escalation]",
 	like: "eWPT eWPTXv2 OSWE OSCP",
-	youtube: "https://twitch.tv/s4vitaar",
-	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
+	youtube: "https://www.youtube.com/watch?v=kBw3UyBt7Hc",
 	resuelta: true,
 });
 
@@ -1240,9 +1239,8 @@ Dataset.push({ name: "Time",
 	dificultad:	"Media",
 	skills: "Jackson CVE-2019-12384 Exploitation - SSRF to RCE Abusing Cron Job [Privilege Escalation]",
 	like: "eWPT OSWE OSCP",
-	youtube: "https://twitch.tv/s4vitaar",
-	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
-	resuelta: false,
+	youtube: "https://www.youtube.com/watch?v=ESxAyDX2Dg4",
+	resuelta: true,
 });
 
 /*Dataset.push({ name: "",
