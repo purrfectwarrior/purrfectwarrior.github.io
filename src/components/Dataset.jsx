@@ -1243,6 +1243,42 @@ Dataset.push({ name: "Time",
 	resuelta: true,
 });
 
+Dataset.push({ name: "Nineveh",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.43",
+	so: "Linux",
+	dificultad:	"Media",
+	skills: "Abusing http forms with Hydra - Login Brute Force Local File Inclusion (LFI) Steganography - id_rsa hidden in image Abusing phpLiteAdmin v1.9 (Remote Code Execution) Abusing Knockd - Port Knocking Chkrootkit 0.49 - Local Privilege Escalation Using Wrappers - LFI [EXTRA]",
+	like: "eWPT OSWE OSCP",
+	youtube: "https://www.youtube.com/watch?v=ATDC1eGgnp0",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Fortune",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.127",
+	so: "Linux",
+	dificultad:	"Insane",
+	skills: "Command Injection OpenSSL - Creating a new key OpenSSL - Creating a CSR file (Certificate Signing Request) OpenSSL - Creating a PEM file OpenSSL - Creating a PFX file (pkcs12) to import it into the Firefox browser NFS share mount Editing our user ID in order to gain access to the NFS directories Code Analysis - Crypto Challenge",
+	like: "eWPT eWPTXv2 OSWE",
+	youtube: "https://www.youtube.com/watch?v=zYjeNFx-ymg",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Timing",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.11.135",
+	so: "Linux",
+	dificultad:	"Media",
+	skills: "Local File Inclusion (LFI) Using Wrappers - Base64 Wrapper Code Inspection Role manipulation File Upload Exploitation Abusing Sudoers Privilege - Playing with symbolic links",
+	like: "eWPT eWPTXv2 OSWE",
+	youtube: "https://www.youtube.com/watch?v=5GH6Ze84FTQ",
+	resuelta: true,
+});
+
 /*Dataset.push({ name: "",
 	id: count(),
 	sku: crypto.randomUUID(),
