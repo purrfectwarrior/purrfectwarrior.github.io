@@ -2439,6 +2439,31 @@ Dataset.push({ name: "Scrambled",
 	resuelta: true,
 });
 
+Dataset.push({ name: "Remote",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.11.180",
+	so: "Windows",
+	dificultad:	"Fácil",
+	skills: "Web Enumeration NFS Enumeration - Showmount Information Leakage Abusing Umbraco Admin Panel Umbraco CMS - Remote Code Execution by authenticated administrators Obtaining the TeamViewer password from the system registers (AES128 - CBC) [Privilege Escalation]",
+	like: "eWPT OSCP (Escalada)",
+	youtube: "https://www.youtube.com/watch?v=YCApOqCgoC4",
+	resuelta: true,
+});
+
+Dataset.push({ name: "Nibbles",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.10.75",
+	so: "Linux",
+	dificultad:	"Fácil",
+	skills: "Abusing Nibbleblog - Remote Code Execution via File Upload Abusing Sudoers Privilege [Privilege Escalation]",
+	like: "eJPT",
+	youtube: "https://twitch.tv/s4vitaar",
+	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
+	resuelta: false,
+});
+
 /*Dataset.push({ name: "",
 	id: count(),
 	sku: crypto.randomUUID(),
