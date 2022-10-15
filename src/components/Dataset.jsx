@@ -2459,10 +2459,22 @@ Dataset.push({ name: "Nibbles",
 	dificultad:	"Fácil",
 	skills: "Abusing Nibbleblog - Remote Code Execution via File Upload Abusing Sudoers Privilege [Privilege Escalation]",
 	like: "eJPT",
-	youtube: "https://twitch.tv/s4vitaar",
-	comment: "[ESTA NOCHE EN DIRECTO POR TWITCH]",
-	resuelta: false,
+	youtube: "https://www.youtube.com/watch?v=vAhrLjw1JEA",
+	resuelta: true,
 });
+
+Dataset.push({ name: "OpenSource",
+	id: count(),
+	sku: crypto.randomUUID(),
+	ip: "10.10.11.164",
+	so: "Linux",
+	dificultad:	"Fácil",
+	skills: "Web Enumeration Github Project Enumeration Information Leakage Abusing File Upload - Replacing Python Files [RCE] Local File Inclusion (LFI) Shell via Flask Debug - Finding out the PIN (Werkzeug Debugger) [Unintended Way] Playing with Chisel - Remote Port Forwarding [PIVOTING] Abusing Gitea + Information Leakage Abusing Cron Job + Git Hooks [Privilege Escalation]",
+	like: "eWPT eWPTXv2 OSWE eCPPTv2 OSCP",
+	youtube: "https://www.youtube.com/watch?v=Be5wJyhgB_A",
+	resuelta: true,
+});
+
 
 /*Dataset.push({ name: "",
 	id: count(),
