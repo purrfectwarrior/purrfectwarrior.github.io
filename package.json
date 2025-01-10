@@ -1,8 +1,8 @@
 {
 	"name": "s4",
 	"version": "0.0.4",
-	"description": "s4machines",
-	"homepage": "https://htbmachines.github.io/",
+	"description": "maquinas",
+	"homepage": "https://purrfectwarrior.github.io/",
 	"main": ".src/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -27,7 +27,7 @@
 	"author": "CheatModes4 rroderickk@gmail.com",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/rroderickk/s4htb/issues"
+		"url": "https://github.com/purrfectwarrior/purrfectwarrior.github.io/pulls"
 	},
 	"resolutions": {
 		"react-scripts/webpack": "5.70.0"
