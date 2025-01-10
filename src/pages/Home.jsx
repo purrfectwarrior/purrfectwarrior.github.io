@@ -33,7 +33,7 @@ return ( <> <Animate>
 				fontSize: '2.1rem',
 				filter: 'blur(0.6px)',
 			}}>
-				S4vitar Machine's Resolutions
+				Chris Machine's Resolutions
 		</Heading>
 
 		<Heading as='h2'
@@ -67,7 +67,7 @@ return ( <> <Animate>
 							fontWeight: "100",
 						}} 
 						ml={40} mr={40}
-					>Machines</Text>
+					>Maquinas</Text>
 				</Tab>
 				<Tab
 					fontFamily={'Hack'} color="#e06c76"
@@ -83,7 +83,7 @@ return ( <> <Animate>
 							background: "transparent",
 						}} 
 						m={20} mr={40}
-					>About</Text>
+					>Acerca de</Text>
 				</Tab>
 			</TabList>
 
